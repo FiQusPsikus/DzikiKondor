@@ -1,0 +1,2 @@
+# DzikiKondor
+Kondor dziki ptak
